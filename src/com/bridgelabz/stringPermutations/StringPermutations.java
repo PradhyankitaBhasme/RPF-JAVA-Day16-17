@@ -1,4 +1,4 @@
-package com.bridgelabz.StringPermutations;
+package com.bridgelabz.stringPermutations;
 
 public class StringPermutations {
     public static void main(String[] args) {

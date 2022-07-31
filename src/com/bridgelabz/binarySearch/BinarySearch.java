@@ -1,4 +1,4 @@
-package com.bridgelabz.BinarySearchWord;
+package com.bridgelabz.binarySearch;
 
 import java.io.File;
 import java.io.FileNotFoundException;

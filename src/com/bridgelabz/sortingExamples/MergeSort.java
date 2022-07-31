@@ -1,4 +1,4 @@
-package com.bridgelabz.sort;
+package com.bridgelabz.sortingExamples;
 
 public class MergeSort {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.bridgelabz.BinarySearchWord;
+package com.bridgelabz.binarySearch;
 
 import java.util.Scanner;
 

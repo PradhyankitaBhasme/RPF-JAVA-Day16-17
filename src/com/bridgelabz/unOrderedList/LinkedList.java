@@ -1,4 +1,4 @@
-package com.bridgelabz.UnOrderedList;
+package com.bridgelabz.unOrderedList;
 
 public class LinkedList<K> {
     private Node<K> head;

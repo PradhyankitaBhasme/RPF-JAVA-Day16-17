@@ -1,4 +1,4 @@
-package com.bridgelabz.AnagramAndPrimeNumber;
+package com.bridgelabz.primeNumberAnagramAndPalindrome;
 
 public class PrimeNumbersExample {
     public static void main(String[] args) {

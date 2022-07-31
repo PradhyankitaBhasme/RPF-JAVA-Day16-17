@@ -1,4 +1,4 @@
-package com.bridgelabz.OrderedList;
+package com.bridgelabz.orderedList;
 
 public class OrderedList<K> {
     private Node<K> head;

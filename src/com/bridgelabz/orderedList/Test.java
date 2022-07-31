@@ -1,4 +1,4 @@
-package com.bridgelabz.OrderedList;
+package com.bridgelabz.orderedList;
 
 import java.io.File;
 import java.io.FileNotFoundException;

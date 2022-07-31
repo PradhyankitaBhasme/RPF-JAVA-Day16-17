@@ -1,4 +1,4 @@
-package com.bridgelabz.UnOrderedList;
+package com.bridgelabz.unOrderedList;
 
 import java.io.File;
 import java.io.FileWriter;

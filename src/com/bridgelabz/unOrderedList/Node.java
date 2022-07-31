@@ -1,4 +1,4 @@
-package com.bridgelabz.OrderedList;
+package com.bridgelabz.unOrderedList;
 
 public class Node<K> {
     private K data;

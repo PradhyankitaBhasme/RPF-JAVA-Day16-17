@@ -1,4 +1,4 @@
-package com.bridgelabz.AnagramAndPrimeNumber;
+package com.bridgelabz.primeNumberAnagramAndPalindrome;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.bridgelabz.sort;
+package com.bridgelabz.sortingExamples;
 
 import java.util.Scanner;
 

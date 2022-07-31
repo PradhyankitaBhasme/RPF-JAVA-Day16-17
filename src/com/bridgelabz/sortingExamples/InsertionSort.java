@@ -1,4 +1,4 @@
-package com.bridgelabz.sort;
+package com.bridgelabz.sortingExamples;
 
 import java.io.File;
 import java.io.FileNotFoundException;
