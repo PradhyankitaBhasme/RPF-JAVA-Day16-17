@@ -46,7 +46,5 @@ public class BinarySearch {
         }else {
             System.out.println("word not found");
         }
-
     }
-
 }
